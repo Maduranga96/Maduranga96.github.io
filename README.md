@@ -1,5 +1,5 @@
-# MaduHtml
-A Madu HtmlL Site from the Computing Fundamentals Course
+# DemoHtml - maduranga96
+A Demo HtmlL Site from the Computing Fundamentals Course
 
 # Author
 Dennis Devey
